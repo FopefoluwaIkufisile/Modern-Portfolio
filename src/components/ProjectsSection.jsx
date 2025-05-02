@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Loopstudios Landing Page",
     description: "A visually appealing landing page built with React and TailwindCSS.",
-    image: "/projects/project1.png",
+    image: "https://i.ibb.co/GQR2sJx2/Screenshot-2025-05-02-at-2-35-02-AM.png",
     tags: ["React", "TailwindCSS", "Framer Motion"],
     demoUrl: "https://fopefoluwaikufisile.github.io/Loopstudios-landing-page/",
     githubUrl: "https://github.com/FopefoluwaIkufisile/Fylo-data-storage-component",
@@ -15,7 +15,7 @@ const projects = [
     title: "Movie App (TMDB API & Appwrite)",
     description:
       "An interactive movie website leveraging the TMDB API and Appwrite for backend functionality, including top user searches.",
-    image: "/projects/project2.png",
+    image: "https://i.ibb.co/2XCyZqd/Screenshot-2025-05-02-at-3-53-03-AM.png",
     tags: ["React", "TailwindCSS", "Appwrite"],
     demoUrl: "https://fopefoluwaikufisile.github.io/movie-page-TMDB-API-and-Appwrite-integration-/",
     githubUrl: "https://github.com/FopefoluwaIkufisile/movie-page-TMDB-API-and-Appwrite-integration-",
@@ -25,7 +25,7 @@ const projects = [
     title: "Shop Desk (Team Project)",
     description:
       "A cloud based inventory management software that helps you track stock, process sales, and generate business records so you can focus on growing your business.",
-    image: "/projects/project3.png",
+    image: "https://i.ibb.co/Pn42Bmj/Screenshot-2025-03-31-at-2-26-38-AM.png",
     tags: ["Nextjs", "Node.js", "TailwindCss"],
     demoUrl: "https://shopdesk.im/",
     githubUrl: "https://shopdesk.im/",
