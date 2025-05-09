@@ -8,7 +8,7 @@ const projects = [
     image: "https://i.ibb.co/GQR2sJx2/Screenshot-2025-05-02-at-2-35-02-AM.png",
     tags: ["React", "TailwindCSS", "Framer Motion"],
     demoUrl: "https://fopefoluwaikufisile.github.io/Loopstudios-landing-page/",
-    githubUrl: "https://github.com/FopefoluwaIkufisile/Fylo-data-storage-component",
+    githubUrl: "https://github.com/FopefoluwaIkufisile/Loopstudios-landing-page",
   },
   {
     id: 2,
